@@ -1,0 +1,34 @@
+﻿生成启动时间为 2014/12/4 1:43:58。
+     1>项目“C:\Users\Xiang\Desktop\Stevens\CS570 C++\Final Project\Final Project\Final Project.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Final Project.cpp"
+         Final Project.cpp
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(32): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(40): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(72): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(259): warning C4101: “a”: 未引用的局部变量
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(258): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\xiang\desktop\stevens\cs570 c++\final project\final project\final project.cpp(258): warning C4101: “j”: 未引用的局部变量
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Xiang\Desktop\Stevens\CS570 C++\Final Project\Debug\Final Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Xiang\Desktop\Stevens\CS570 C++\Final Project\Debug\Final Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Xiang\Desktop\Stevens\CS570 C++\Final Project\Debug\Final Project.lib" /MACHINE:X86 "Debug\Final Project.obj"
+         Final Project.vcxproj -> C:\Users\Xiang\Desktop\Stevens\CS570 C++\Final Project\Debug\Final Project.exe
+     1>已完成生成项目“C:\Users\Xiang\Desktop\Stevens\CS570 C++\Final Project\Final Project\Final Project.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75
